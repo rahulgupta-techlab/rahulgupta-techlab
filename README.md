@@ -123,7 +123,7 @@ Ensemble ML pipeline predicting garment factory employee productivity with SHAP 
 | | Company | Role | Year | Type |
 |---|---|---|---|---|
 | 🔴 | **Bosch   Digital Twin** | Data Scientist | 2026 | Student · Full Time |
-| 🔵 | **ZEISS Group · ZEISS SMT** | Data & AI Engineer · Full Time| 2025 | Student · Full Time |
+| 🔵 | **ZEISS Group · ZEISS SMT** | Data & AI Engineer | 2025 | Student · Full Time |
 | 🟠 | **FIR e.V. RWTH Aachen** | Research Software Engineer | 2025-2026 | Student · Part Time |
 | 🟡 | **Dr. Gaenswein Consulting** | Data Analytics & Strategy Consultant | 2025 | Student · Part Time |
 | 🟢 | **Midland Credit Management** | Business Data Analyst | 2024 | Permanent · Full Time · US Client |
