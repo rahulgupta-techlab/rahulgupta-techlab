@@ -35,8 +35,8 @@ rahul = {
 <tr>
 <td width="50%">
 
-### [Cintelion — OCEL Process Mining Platform](https://github.com/rahulgupta-techlab/cintelion-process-mining)
-Enterprise Object-Centric Event Log analysis platform — built as **sole full-stack developer** at FIR RWTH Aachen.
+### [Cintelion - OCEL Process Mining Platform](https://github.com/rahulgupta-techlab/cintelion-process-mining)
+Enterprise Object-Centric Event Log analysis platform - built as **sole full-stack developer** at FIR RWTH Aachen.
 
 `FastAPI` `React 18` `TypeScript` `pm4py` `Redis` `Docker` `PostgreSQL`
 
@@ -46,7 +46,7 @@ Enterprise Object-Centric Event Log analysis platform — built as **sole full-s
 <td width="50%">
 
 ### [Agent-Based AI for Process Intelligence](https://github.com/rahulgupta-techlab/agent-ai-process-intelligence)
-Masters thesis — AI-agent framework integrating process mining with LLM reasoning for automated decision support.
+Masters thesis - AI-agent framework integrating process mining with LLM reasoning for automated decision support.
 
 `LLMs` `RAG` `Agentic AI` `Process Mining` `Python` `Vector DB`
 
@@ -57,7 +57,7 @@ Masters thesis — AI-agent framework integrating process mining with LLM reason
 <tr>
 <td width="50%">
 
-### [Factory Layout Optimization — MIP Model](https://github.com/rahulgupta-techlab/factory-layout-optimization)
+### [Factory Layout Optimization - MIP Model](https://github.com/rahulgupta-techlab/factory-layout-optimization)
 Gurobi Mixed-Integer Programming model for automated factory layout planning at Schaeffler AG.
 
 `Python` `Gurobi` `MIP` `Operations Research`
