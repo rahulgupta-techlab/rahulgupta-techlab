@@ -16,10 +16,10 @@
 ```python
 rahul = {
     "role"       : "Data Scientist · Data Engineering & MLOps · Industrial AI",
-    "education"  : "MSc Data Analytics & Decision Science — RWTH Aachen (2026)",
+    "education"  : "MSc Data Analytics & Decision Science - RWTH Aachen (2026)",
     "thesis"     : "Agent-Based AI Decision Support for Process Intelligence",
     "location"   : "Stuttgart, Germany",
-    "experience" : "4+ years · Bosch · ZEISS SMT · FIR RWTH · Cognizant",
+    "experience" : "4+ years · Bosch · ZEISS SMT · FIR e.V. RWTH · Cognizant",
     "stack"      : ["Python", "FastAPI", "React 18", "Docker", "Azure", "Databricks"],
     "ai_focus"   : ["LLMs", "RAG", "Agentic AI", "Process Mining", "MLOps"],
     "open_to"    : ["Full-time", "Freelance", "Research collaborations"],
@@ -122,12 +122,12 @@ Ensemble ML pipeline predicting garment factory employee productivity with SHAP 
 
 | | Company | Role | Year |
 |---|---|---|---|
-| 🔴 | **Bosch Business Innovation** | Data Scientist Intern — Digital Twin | 2026 |
-| 🔵 | **ZEISS Group · ZEISS SMT** | Data & AI Engineer Intern | 2025 |
+| 🔴 | **Bosch Business Innovation** | Data Scientist | Digital Twin | 2026 |
+| 🔵 | **ZEISS Group · ZEISS SMT** | Data & AI Engineer | 2025 |
 | 🟠 | **FIR e.V. RWTH Aachen** | Research Software Engineer | 2025–2026 |
 | 🟡 | **Dr. Gaenswein Consulting** | Data Analytics & Strategy Consultant | 2025 |
-| 🟢 | **Midland Credit Management** | Business Data Analyst — US Client | 2024 |
-| ⚫ | **Cognizant** | Data Engineering Analyst — US Clients | 2020–2024 |
+| 🟢 | **Midland Credit Management** | Business Data Analyst - US Client | 2024 |
+| ⚫ | **Cognizant** | Data Engineering Analyst - US Clients | 2020–2024 |
 
 ---
 
@@ -136,7 +136,7 @@ Ensemble ML pipeline predicting garment factory employee productivity with SHAP 
 | | Degree | Institution | Year |
 |---|---|---|---|
 | 🏛️ | MSc Data Analytics & Decision Science | RWTH Aachen University | 2024–2026 |
-| 🎓 | Diploma in Data Science | IIT Madras | 2023–2024 |
+| 🎓 | Professional Studies in Data Science and Management| IIT Madras | 2023–2024 |
 | ⚙️ | B.Eng. Mechanical Engineering | IET DAVV | 2016–2020 |
 
 ---
