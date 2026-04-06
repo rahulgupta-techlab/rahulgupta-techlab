@@ -124,7 +124,7 @@ Ensemble ML pipeline predicting garment factory employee productivity with SHAP 
 |---|---|---|---|---|
 | 🔴 | **Bosch   Digital Twin** | Data Scientist | 2026 | Student · Full Time |
 | 🔵 | **ZEISS Group · ZEISS SMT** | Data & AI Engineer · Full Time| 2025 | Student · Full Time |
-| 🟠 | **FIR e.V. RWTH Aachen** | Research Software Engineer | 2025–2026 | Student · Part Time |
+| 🟠 | **FIR e.V. RWTH Aachen** | Research Software Engineer | 2025-2026 | Student · Part Time |
 | 🟡 | **Dr. Gaenswein Consulting** | Data Analytics & Strategy Consultant | 2025 | Student · Part Time |
 | 🟢 | **Midland Credit Management** | Business Data Analyst | 2024 | Permanent · Full Time · US Client |
 | ⚫ | **Cognizant** | Data Engineering Analyst | 2020–2024 | Permanent · Full Time · US Clients |
@@ -135,8 +135,8 @@ Ensemble ML pipeline predicting garment factory employee productivity with SHAP 
 
 | | Degree | Institution | Year |
 |---|---|---|---|
-| 🏛️ | MSc Data Analytics & Decision Science | RWTH Aachen University | 2024–2026 |
-| 🎓 | Professional Studies in Data Science and Management| IIT Madras | 2023–2024 |
+| 🏛️ | MSc Data Analytics & Decision Science | RWTH Aachen University | 2024-2026 |
+| 🎓 | Professional Studies in Data Science and Management| IIT Madras | 2023-2024 |
 | ⚙️ | B.Eng. Mechanical Engineering | IET DAVV | 2016–2020 |
 
 ---
