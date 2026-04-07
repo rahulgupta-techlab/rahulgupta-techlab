@@ -13,71 +13,11 @@
 
 ## About Me
 
-```python
-rahul = {
-    "role"       : "Data Scientist · Data Engineering & MLOps · Industrial AI",
-    "education"  : "MSc Data Analytics & Decision Science - RWTH Aachen (2026)",
-    "thesis"     : "Agent-Based AI Decision Support for Process Intelligence",
-    "location"   : "Stuttgart, Germany",
-    "experience" : "4+ years · Bosch · ZEISS SMT · FIR e.V. RWTH · Cognizant",
-    "stack"      : ["Python", "FastAPI", "React 18", "Docker", "Azure", "Databricks"],
-    "ai_focus"   : ["LLMs", "RAG", "Agentic AI", "Process Mining", "MLOps"],
-    "open_to"    : ["Full-time", "Freelance", "Research collaborations"],
-    "available"  : "Germany · EU · Worldwide · Remote"
-}
-```
+Data Scientist and AI Engineer with 4+ years of experience in building scalable data systems and intelligent applications.
 
----
+Currently pursuing a Master’s in Data Analytics and Decision Science, with a focus on machine learning, LLMs, and data driven decision systems.
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### [Cintelion - OCEL Process Mining Platform](https://github.com/rahulgupta-techlab/cintelion-process-mining)
-Enterprise Object-Centric Event Log analysis platform - built as **sole full-stack developer** at FIR RWTH Aachen.
-
-`FastAPI` `React 18` `TypeScript` `pm4py` `Redis` `Docker` `PostgreSQL`
-
-⚡ 80% API latency reduction · 20% compliance improvement
-
-</td>
-<td width="50%">
-
-### [Agent-Based AI for Process Intelligence](https://github.com/rahulgupta-techlab/agent-ai-process-intelligence)
-Masters thesis - AI-agent framework integrating process mining with LLM reasoning for automated decision support.
-
-`LLMs` `RAG` `Agentic AI` `Process Mining` `Python` `Vector DB`
-
-🎓 RWTH Aachen University · FIR e.V. · 2026
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Factory Layout Optimization - MIP Model](https://github.com/rahulgupta-techlab/factory-layout-optimization)
-Gurobi Mixed-Integer Programming model for automated factory layout planning at Schaeffler AG.
-
-`Python` `Gurobi` `MIP` `Operations Research`
-
-📊 4% optimality gap · Improved material flow and lead time
-
-</td>
-<td width="50%">
-
-### [Production Productivity Prediction](https://github.com/rahulgupta-techlab/production-productivity-ml)
-Ensemble ML pipeline predicting garment factory employee productivity with SHAP explainability.
-
-`Python` `XGBoost` `scikit-learn` `SHAP` `Feature Engineering`
-
-📈 Regression · Explainability · RWTH Aachen
-
-</td>
-</tr>
-</table>
-
+Interested in solving real world problems through AI, combining data, engineering, and domain understanding.
 ---
 
 ## Tech Stack
