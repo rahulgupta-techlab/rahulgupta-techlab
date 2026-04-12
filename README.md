@@ -64,7 +64,7 @@ Interested in solving real world problems through AI, combining data, engineerin
 |---|---|---|---|---|
 | 🔴 | **Bosch   Digital Twin** | Data Scientist | 2026 | Student · Full Time |
 | 🔵 | **ZEISS Group · ZEISS SMT** | Data & AI Engineer | 2025 | Student · Full Time |
-| 🟠 | **FIR e.V. RWTH Aachen** | Research Software Engineer | 2025-2026 | Student · Part Time |
+| 🟠 | **FIR e.V. RWTH Aachen** | Research Software Engineer -> AI Engineer | 2025-2026 | Student · Part Time |
 | 🟡 | **Dr. Gaenswein Consulting** | Data Analytics & Strategy Consultant | 2025 | Student · Part Time |
 | 🟢 | **Midland Credit Management** | Business Data Analyst | 2024 | Permanent · Full Time · US Client |
 | ⚫ | **Cognizant** | Data Engineering Analyst | 2020-2024 | Permanent · Full Time · US Client |
