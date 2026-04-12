@@ -13,7 +13,7 @@
 
 ## About Me
 
-Data Scientist and AI Engineer with 4+ years of experience in building scalable data systems and intelligent applications.
+Data and AI professional with 4+ years of experience in building scalable data systems and intelligent applications.
 
 Currently pursuing a Master’s in Data Analytics and Decision Science, with a focus on machine learning, LLMs, and data driven decision systems.
 
