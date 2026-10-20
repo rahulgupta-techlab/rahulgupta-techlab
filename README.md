@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+I'm+Rahul+Gupta;Data+Scientist+%7C+AI+Engineer;Industrial+AI+%7C+MLOps+%7C+LLMs;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+I'm+Rahul+Gupta;AI+Engineer;Agentic+AI+%7C+RAG+%7C+LLMs;Industrial+AI+%7C+MLOps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,11 +13,28 @@
 
 ## About Me
 
-Data and AI professional with 5+ years of experience in building scalable data systems and intelligent applications.
+AI Engineer with 5+ years of experience building data systems and production AI, from industrial digital twins and computer vision at Bosch to agentic decision support in research.
 
-Currently pursuing a Master’s in Data Analytics and Decision Science, with a focus on machine learning, LLMs, and data driven decision systems.
+MSc Data Analytics & Decision Science, RWTH Aachen. Master's thesis: *Agent-Based AI Decision Support for Process Intelligence* (LLM agents, MCP tools, hybrid retrieval, guardrails and evaluation).
 
-Interested in solving real world problems through AI, combining data, engineering, and domain understanding.
+I care about AI that holds up in production: grounded answers, measurable quality, and systems that run reliably.
+
+🌐 Portfolio: [rahulgupta-techlok.github.io/i](https://rahulgupta-techlok.github.io/i/)
+
+---
+
+## Featured Projects
+
+| Project | What it does | Result |
+|---|---|---|
+| [llm-security-gateway](https://github.com/rahulgupta-techlab/llm-security-gateway) | OpenAI-compatible proxy that blocks prompt injection and secret leaks and masks PII in both directions; vLLM via Docker Compose, CI | 75% detection, 0% false positives on a 24-prompt benchmark |
+| [multilingual-rag-chatbot](https://github.com/rahulgupta-techlab/multilingual-rag-chatbot) | EN/DE RAG with citations and cross-lingual retrieval; hybrid BM25 + dense search with Reciprocal Rank Fusion | Cross-lingual top-1: 4/4 vs 2/4 lexical baseline |
+| [llm-eval-harness](https://github.com/rahulgupta-techlab/llm-eval-harness) | Scores LLM/RAG systems on correctness, groundedness, refusal, latency and cost | Catches a hallucinating system that keyword metrics rate as perfect |
+| [hybrid-search-retrieval](https://github.com/rahulgupta-techlab/hybrid-search-retrieval) | BM25 (from scratch) vs dense vs hybrid retrieval, measured with recall@k and MRR | Hybrid recall@3 = 1.0 |
+| [mcp-knowledge-server](https://github.com/rahulgupta-techlab/mcp-knowledge-server) | MCP server giving agents guarded tools: read-only SQL, document search, path-traversal checks | 16 tests incl. end-to-end MCP session |
+
+More: [cloud-mlops-pipeline](https://github.com/rahulgupta-techlab/cloud-mlops-pipeline) · [mlops-model-monitoring](https://github.com/rahulgupta-techlab/mlops-model-monitoring) · [streaming-pipeline-demo](https://github.com/rahulgupta-techlab/streaming-pipeline-demo) · [timeseries-forecasting-service](https://github.com/rahulgupta-techlab/timeseries-forecasting-service) · [llm-tool-agent-demo](https://github.com/rahulgupta-techlab/llm-tool-agent-demo)
+
 ---
 
 ## Tech Stack
@@ -28,6 +45,8 @@ Interested in solving real world problems through AI, combining data, engineerin
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Data Engineering**
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -62,7 +81,7 @@ Interested in solving real world problems through AI, combining data, engineerin
 
 | | Company | Role | Year | Type |
 |---|---|---|---|---|
-| 🔴 | **Bosch   Digital Twin** | Data Scientist(ML + Platform Engineer) | 2026 |
+| 🔴 | **Bosch · Digital Twin** | Data Scientist (ML & Platform Engineering) · Working Student | 2026 |
 | 🔵 | **ZEISS Group · ZEISS SMT** | Data & AI Engineer | 2025 |
 | 🟠 | **FIR e.V. an der RWTH Aachen** | Research Assistant: Software Engineer and AI Agent for Decision Support | 2025-2026 |
 | 🟡 | **Dr. Gaenswein Consulting** | Data Analytics & Strategy Consultant | 2025 |
