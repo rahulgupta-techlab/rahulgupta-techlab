@@ -81,7 +81,7 @@ More: [cloud-mlops-pipeline](https://github.com/rahulgupta-techlab/cloud-mlops-p
 
 | | Company | Role | Year | Type |
 |---|---|---|---|---|
-| 🔴 | **Bosch · Digital Twin** | Data Scientist (ML & Platform Engineering) · Working Student | 2026 |
+| 🔴 | **Bosch · Digital Twin** | Data Scientist (ML & Solution Engineering) | 2026 |
 | 🔵 | **ZEISS Group · ZEISS SMT** | Data & AI Engineer | 2025 |
 | 🟠 | **FIR e.V. an der RWTH Aachen** | Research Assistant: Software Engineer and AI Agent for Decision Support | 2025-2026 |
 | 🟡 | **Dr. Gaenswein Consulting** | Data Analytics & Strategy Consultant | 2025 |
