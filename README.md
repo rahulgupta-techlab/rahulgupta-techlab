@@ -13,11 +13,17 @@
 
 ## About Me
 
-AI Engineer with 5+ years of experience building data systems and production AI, from industrial digital twins and computer vision at Bosch to agentic decision support in research.
+AI Engineer and Data Scientist with a software and data engineering foundation and **5+ years** building production AI, machine learning and data systems, in startups and large enterprises, in Germany and India.
 
-MSc Data Analytics & Decision Science, RWTH Aachen. Master's thesis: *Agent-Based AI Decision Support for Process Intelligence* (LLM agents, MCP tools, hybrid retrieval, guardrails and evaluation).
+- 🏭 **Bosch**: product development and solution engineering for remote device management in industrial IoT (edge to cloud), plus industrial AI: predictive maintenance, multivariate time series, computer vision, with MLOps on MLflow.
+- 🤖 **FIR e.V. at RWTH Aachen**: agentic AI and RAG for decision support (LangGraph, MCP, tool calling, hybrid retrieval) with guardrails and an evaluation framework for quality, latency and cost. **+40% context relevance**; Shape process-mining platform with **80% lower API latency**.
+- 📊 **ZEISS SMT**: production reporting on Databricks (**40% faster refresh**), scheduling optimization and an LLM analytics agent (RAG, NL-to-SQL).
+- 💻 **Cognizant** (4 years): data pipelines, ML features and CI/CD for enterprise software.
 
-I care about AI that holds up in production: grounded answers, measurable quality, and systems that run reliably.
+MSc Data Analytics & Decision Science, RWTH Aachen. Master's thesis: *Agent-Based AI Decision Support for Process Intelligence*.
+
+I build AI that holds up outside the demo: grounded, measured and running in production.
+Open to **AI Engineer, ML Engineer, Data Scientist and Forward Deployed Engineer** roles across Germany.
 
 🌐 Portfolio: [rahulgupta-techlok.github.io/i](https://rahulgupta-techlok.github.io/i/)
 
@@ -81,7 +87,7 @@ More: [cloud-mlops-pipeline](https://github.com/rahulgupta-techlab/cloud-mlops-p
 
 | | Company | Role | Year | Type |
 |---|---|---|---|---|
-| 🔴 | **Bosch · Digital Twin** | Data Scientist (ML & Solution Engineering) | 2026 |
+| 🔴 | **Bosch** | Data Scientist (ML & Solution Engineering) | 2026 |
 | 🔵 | **ZEISS Group · ZEISS SMT** | Data & AI Engineer | 2025 |
 | 🟠 | **FIR e.V. an der RWTH Aachen** | Research Assistant: Software Engineer and AI Agent for Decision Support | 2025-2026 |
 | 🟡 | **Dr. Gaenswein Consulting** | Data Analytics & Strategy Consultant | 2025 |
