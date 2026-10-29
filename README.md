@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+I'm+Rahul+Gupta;AI+Engineer;Agentic+AI+%7C+RAG+%7C+LLMs;Industrial+AI+%7C+MLOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+I'm+Rahul+Gupta;AI+Engineer+and+Data+ Scientist;Agentic+AI+%7C+RAG+%7C+LLMs;Industrial+AI+%7C+MLOps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -87,7 +87,7 @@ More: [cloud-mlops-pipeline](https://github.com/rahulgupta-techlab/cloud-mlops-p
 
 | | Company | Role | Year | Type |
 |---|---|---|---|---|
-| 🔴 | **Bosch** | Data Scientist (ML & Solution Engineering) | 2026 |
+| 🔴 | **Bosch** | Data Scientist | 2026 |
 | 🔵 | **ZEISS Group · ZEISS SMT** | Data & AI Engineer | 2025 |
 | 🟠 | **FIR e.V. an der RWTH Aachen** | Research Assistant: Software Engineer and AI Agent for Decision Support | 2025-2026 |
 | 🟡 | **Dr. Gaenswein Consulting** | Data Analytics & Strategy Consultant | 2025 |
