@@ -41,8 +41,11 @@ Open to **AI Engineer, ML Engineer, Data Scientist and Forward Deployed Engineer
 | [llm-eval-harness](https://github.com/rahulgupta-techlab/llm-eval-harness) | Scores LLM/RAG systems on correctness, groundedness, refusal, latency and cost | Catches a hallucinating system that keyword metrics rate as perfect |
 | [hybrid-search-retrieval](https://github.com/rahulgupta-techlab/hybrid-search-retrieval) | BM25 (from scratch) vs dense vs hybrid retrieval, measured with recall@k and MRR | Hybrid recall@3 = 1.0 |
 | [mcp-knowledge-server](https://github.com/rahulgupta-techlab/mcp-knowledge-server) | MCP server giving agents guarded tools: read-only SQL, document search, path-traversal checks | 16 tests incl. end-to-end MCP session |
-
-More: [cloud-mlops-pipeline](https://github.com/rahulgupta-techlab/cloud-mlops-pipeline) · [mlops-model-monitoring](https://github.com/rahulgupta-techlab/mlops-model-monitoring) · [streaming-pipeline-demo](https://github.com/rahulgupta-techlab/streaming-pipeline-demo) · [timeseries-forecasting-service](https://github.com/rahulgupta-techlab/timeseries-forecasting-service) · [llm-tool-agent-demo](https://github.com/rahulgupta-techlab/llm-tool-agent-demo)
+| [cloud-mlops-pipeline](https://github.com/rahulgupta-techlab/cloud-mlops-pipeline) | Trains a scikit-learn classifier and serves it through a validated FastAPI endpoint; Docker image, Kubernetes manifests | GitHub Actions runs the tests on every push; latest run passing |
+| [mlops-model-monitoring](https://github.com/rahulgupta-techlab/mlops-model-monitoring) | FastAPI service that compares production batches to a reference dataset, feature by feature, using PSI and KS tests | 12 tests, incl. a deliberately shifted batch that must trip the alert (PSI > 0.2 or KS p < 0.05) |
+| [streaming-pipeline-demo](https://github.com/rahulgupta-techlab/streaming-pipeline-demo) | Kafka-style producer and consumer with event-time tumbling-window aggregation, on an in-memory asyncio topic (no broker needed) | 16 tests incl. end-to-end producer-to-aggregator flow |
+| [timeseries-forecasting-service](https://github.com/rahulgupta-techlab/timeseries-forecasting-service) | Forecasting API using Holt's linear trend, with MAE/RMSE backtesting on held-out data | 13 tests, incl. backtest math checked against a hand-computed example |
+| [llm-tool-agent-demo](https://github.com/rahulgupta-techlab/llm-tool-agent-demo) | ReAct agent loop with a pluggable LLM interface, shipped with a rule-based stub; calculator tool uses AST parsing, never `eval` | 16 test functions incl. unsafe-input rejection; runs with no API key |
 
 ---
 
