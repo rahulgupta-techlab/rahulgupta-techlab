@@ -36,6 +36,7 @@ Open to **AI Engineer, ML Engineer, Data Scientist and Forward Deployed Engineer
 
 | Project | What it does | Result |
 |---|---|---|
+| [grounded-docs](https://github.com/rahulgupta-devdemo/grounded-docs) | Full-stack EN/DE document chat: React + FastAPI, Qdrant vector search, Gemini with model fallback, page-level citations; Docker Compose with nginx | Right page ranked first for 88% of 24 test questions (MRR 0.91); 8/8 unanswerable questions declined |
 | [llm-security-gateway](https://github.com/rahulgupta-techlab/llm-security-gateway) | OpenAI-compatible proxy that blocks prompt injection and secret leaks and masks PII in both directions; vLLM via Docker Compose, CI | 75% detection, 0% false positives on a 24-prompt benchmark |
 | [multilingual-rag-chatbot](https://github.com/rahulgupta-techlab/multilingual-rag-chatbot) | EN/DE RAG with citations and cross-lingual retrieval; hybrid BM25 + dense search with Reciprocal Rank Fusion | Cross-lingual top-1: 4/4 vs 2/4 lexical baseline |
 | [llm-eval-harness](https://github.com/rahulgupta-techlab/llm-eval-harness) | Scores LLM/RAG systems on correctness, groundedness, refusal, latency and cost | Catches a hallucinating system that keyword metrics rate as perfect |
@@ -55,25 +56,36 @@ Open to **AI Engineer, ML Engineer, Data Scientist and Forward Deployed Engineer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**LLMs, RAG & Agents**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square)
 
 **Data Engineering**
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**Full Stack & DevOps**
+**Backend & Frontend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Deployment & MLOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
