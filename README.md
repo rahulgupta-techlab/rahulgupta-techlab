@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-gupta-49508b144/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rahulg1397rg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/rahulguptaiitm"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=rahulgupta-techlab&style=for-the-badge&color=F97316" alt="views"/>
 </p>
 
@@ -16,7 +15,7 @@
 
 ## About Me
 
-AI Engineer and Data Scientist with a software and data engineering foundation and **5+ years** building production AI, machine learning and data systems, in startups and large enterprises, in Germany and India.
+AI Engineer and Full Stack Developer with a data engineering & software engineering background and **5+ years** building production AI, machine learning and data systems, in startups and large enterprises, in Germany and India.
 
 - 🏭 **Bosch**: product development and solution engineering for remote device management in industrial IoT (edge to cloud), plus industrial AI: predictive maintenance, multivariate time series, computer vision, with MLOps on MLflow.
 - 🤖 **FIR e.V. at RWTH Aachen**: agentic AI and RAG for decision support (LangGraph, MCP, tool calling, hybrid retrieval) with guardrails and an evaluation framework for quality, latency and cost. **+40% context relevance**; Shape process-mining platform with **80% lower API latency**.
