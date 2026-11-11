@@ -15,7 +15,7 @@
 
 ## About Me
 
-AI Engineer and Data Scientist with full-stack development experience, a software and data engineering background, and **5+ years** building production AI, machine learning and data systems, in startups and large enterprises, in Germany and India.
+AI Engineer and Data Scientist with a strong foundation in software engineering and data engineering, bringing 5+ years of experience in full-stack development, data pipelines, production AI, machine learning, and data systems across startups and large enterprises in Germany and India
 
 - 🏭 **Bosch**: product development and solution engineering for remote device management in industrial IoT (edge to cloud), plus industrial AI: predictive maintenance, multivariate time series, computer vision, with MLOps on MLflow.
 - 🤖 **FIR e.V. at RWTH Aachen**: agentic AI and RAG for decision support (LangGraph, MCP, tool calling, hybrid retrieval) with guardrails and an evaluation framework for quality, latency and cost. **+40% context relevance**; Shape process-mining platform with **80% lower API latency**.
